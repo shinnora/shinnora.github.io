@@ -1,8 +1,12 @@
 # About
-
+Shingo Yashima
 # Education
-- Mar. 2020: Master of Information Science and Technology, Graduate School of Information Science and Technology, University of Tokyo (東京大学大学院情報理工学系研究科数理情報学専攻).
-- Mar. 2018: Bachelor of Engineering, Faculty of Engineering, University of Tokyo (東京大学工学部計数工学科).
+- Mar. 2020: Master of Information Science and Technology.
+ Graduate School of Information Science and Technology, University of Tokyo 
+ (東京大学大学院情報理工学系研究科数理情報学専攻).
+- Mar. 2018: Bachelor of Engineering. 
+Faculty of Engineering, University of Tokyo 
+(東京大学工学部計数工学科).
 
 # Publications
 ## International Conference
