@@ -1,8 +1,8 @@
 # About
 
 # Education
-- April 2018 - March 2020: Master’s student, Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科).
-- April 2014 - March 2018: Undergraduate student, Mechano-Informatics, The University of Tokyo (東京大学工学部).
+- March 2020: Master of Information Science and Technology, Graduate School of Information Science and Technology, University of Tokyo (東京大学大学院情報理工学系研究科数理情報学専攻).
+- March 2018: Bachelor of Engineering, Faculty of Engineering, University of Tokyo (東京大学工学部計数工学科).
 
 # Publications
 ## International Conference
