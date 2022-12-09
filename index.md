@@ -2,9 +2,9 @@
 I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory, inc. My research interests include machine learning, statistical learning theory, and computer vision.
 # Education
 - March 2020: Master of Information Science and Technology.  
- Graduate School of Information Science and Technology, University of Tokyo (東京大学大学院情報理工学系研究科数理情報学専攻).
+ Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科数理情報学専攻).
 - March 2018: Bachelor of Engineering.  
-Faculty of Engineering, University of Tokyo (東京大学工学部計数工学科).
+Faculty of Engineering, The University of Tokyo (東京大学工学部計数工学科).
 
 # Publications
 ## International Conference/Workshop (refereed)
