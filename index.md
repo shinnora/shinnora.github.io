@@ -20,9 +20,8 @@ I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT La
 1. <u>八嶋晋吾</u>. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
 
 # Education
-- March 2020: Master of Information Science and Technology, The University of Tokyo.  
+- Mar. 2020: Master of Information Science and Technology, The University of Tokyo.  
  Supervisor: Taiji Suzuki  
- Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. [[link]](./papers/master_thesis.pdf)
-
-- March 2018: Bachelor of Engineering, The University of Tokyo.  
+ Thesis: *Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition*. [[link]](./papers/master_thesis.pdf)
+- Mar. 2018: Bachelor of Engineering, The University of Tokyo.  
 Supervisor: Kensuke Aishima  
