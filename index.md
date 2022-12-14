@@ -2,13 +2,10 @@
 I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory, inc. My research interests include machine learning, statistical learning theory, and computer vision.
 # Education
 **March 2020: Master of Information Science and Technology.**  
- Graduate School of Information Science and Technology, The University of Tokyo.  
- (東京大学大学院情報理工学系研究科数理情報学専攻)
+ Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科数理情報学専攻).  
 
- 
 **March 2018: Bachelor of Engineering.**  
-Faculty of Engineering, The University of Tokyo.  
-(東京大学工学部計数工学科)
+Faculty of Engineering, The University of Tokyo(東京大学工学部計数工学科).  
 
 # Publications
 ## International Conference/Workshop (refereed)
@@ -26,7 +23,7 @@ Faculty of Engineering, The University of Tokyo.
 1. <u>八嶋晋吾</u>, 二反田篤史, 鈴木大慈．カーネル法におけるRandom Featureを用いた確率的勾配法の期待識別誤差の線形収束性．統計関連学会連合大会, 2019. 
 
 ## Thesis
-- Shingo Yashima. Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. Master Thesis. The University of Tokyo. [[link]](./papers/master_thesis.pdf)
+Shingo Yashima. Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. Master Thesis. The University of Tokyo. [[link]](./papers/master_thesis.pdf)
 
 # Talks
 1. <u>八嶋晋吾</u>. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
