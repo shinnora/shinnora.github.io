@@ -1,5 +1,6 @@
 # About
-I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory, inc. My research interests include machine learning, statistical learning theory, and computer vision.
+I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory.  
+My research interests include machine learning, statistical learning theory, and computer vision.
 
 # Publications
 ## International Conference/Workshop (refereed)
