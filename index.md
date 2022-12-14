@@ -26,4 +26,4 @@ I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT La
 
 **Mar. 2018: Bachelor of Engineering, The University of Tokyo.**  
 Supervisor: Kensuke Aishima  
-Thesis: 動的モード分解を用いたモデル縮減 (Japanese).
+Thesis: 動的モード分解を用いたモデル縮減 (in Japanese).
