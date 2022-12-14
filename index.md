@@ -21,8 +21,9 @@ I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT La
 
 # Education
 **Mar. 2020: Master of Information Science and Technology, The University of Tokyo.**  
-    - Supervisor: Taiji Suzuki  
-    - Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. [[link]](./papers/master_thesis.pdf)
+- Supervisor: Taiji Suzuki  
+- Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. [[link]](./papers/master_thesis.pdf)
+
 **Mar. 2018: Bachelor of Engineering, The University of Tokyo.**   
-    - Supervisor: Kensuke Aishima  
-    - Thesis: 動的モード分解を用いたモデル縮減 (in Japanese).
+- Supervisor: Kensuke Aishima  
+- Thesis: 動的モード分解を用いたモデル縮減 (in Japanese).
