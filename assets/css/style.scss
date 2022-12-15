@@ -3,10 +3,13 @@
 
 @import "{{ site.theme }}";
 
-// h2 {
-//     color:#222;
-//     margin:20px 0 20px;
-//   }
+body {
+  background-color: #fff;
+  padding:20px 50px 50px 50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
 
 h1 {
     color:#222;
