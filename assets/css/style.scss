@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1000px;
+  max-width:1000px;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
@@ -12,7 +12,7 @@
 }
 
 section {
-  width:640px;
+  max-width:640px;
   float:right;
   padding-bottom:50px;
 }
@@ -37,7 +37,7 @@ section {
 
 @media print, screen and (max-width: 480px) {
   body {
-    width:500px;
+    padding:15px;
   }
 
   .downloads {
