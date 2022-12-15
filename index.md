@@ -26,7 +26,7 @@ My research interests include machine learning, statistical learning theory, and
 <dl>
 <dt>Mar. 2020: Master of Information Science and Technology, The University of Tokyo.</dt>
 <dd>Supervisor: Taiji Suzuki</dd>
-<dd>Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. [[link]](./papers/master_thesis.pdf)</dd>
+<dd>Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. <a href="./papers/master_thesis.pdf">[link]</a></dd>
 </dl>
 <dl>
 <dt>Mar. 2018: Bachelor of Engineering, The University of Tokyo.</dt>
