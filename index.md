@@ -1,8 +1,8 @@
-# About
+## About
 I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory.  
 My research interests include machine learning, statistical learning theory, and computer vision.
 
-# Publications
+## Publications
 ### International Conference/Workshop (refereed)
 1. Hiroaki Igarashi, Kenichi Yoneji, Kohta Ishikawa, Rei Kawakami, Teppei Suzuki, <u>Shingo Yashima</u>, Ikuro Sato. Multi-task Curriculum Learning based on Gradient Similarity. The 33rd British Machine Vision Conference *(BMVC)*, 2022. [[paper]](https://bmvc2022.mpi-inf.mpg.de/705/)
 1. <u>Shingo Yashima</u>. Effectiveness of Function Matching in Driving Scene Recognition. The 3rd Autonomous Vehicle Vision Workshop *(ECCV Workshop)*, 2022. [[paper]](https://arxiv.org/abs/2208.09694)
@@ -20,7 +20,7 @@ My research interests include machine learning, statistical learning theory, and
 ### Talks
 1. <u>八嶋晋吾</u>. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
 
-# Education
+## Education
 **Mar. 2020: Master of Information Science and Technology, The University of Tokyo.**  
 Supervisor: Taiji Suzuki  
 Thesis: Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition. [[link]](./papers/master_thesis.pdf)
