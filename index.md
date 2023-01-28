@@ -33,7 +33,7 @@ Exponential Convergence Rates of Classification Errors on Learning with SGD and 
 1. <u>八嶋晋吾</u>. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 東京工業大学社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
 
 
-# Bibliography
+# Biography
 <dl>
 <dt>Apr. 2020 - present: Researcher at Denso IT Laboratory.</dt>
 <dd>Research and development on machine learning, especially for AD/ADAS systems.</dd>
