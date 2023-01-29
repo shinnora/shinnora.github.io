@@ -35,7 +35,7 @@ Exponential Convergence Rates of Classification Errors on Learning with SGD and 
 
 # Biography
 <dl>
-<dt>Apr. 2020 - present: Researcher at Denso IT Laboratory.</dt>
+<dt>Apr. 2020 - present: Researcher, Denso IT Laboratory.</dt>
 <dd>Research and development on machine learning, especially for AD/ADAS systems.</dd>
 </dl>
 <dl>
