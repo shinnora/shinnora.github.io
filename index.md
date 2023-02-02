@@ -7,7 +7,7 @@ My research interests include machine learning, statistical learning theory, and
 ### International Conference/Workshop (refereed)
 1. Yusuke Sekikawa, <u>Shingo Yashima</u>. 
 Bit-Pruning: A Sparse Multiplication-Less Dot-Product. 
-*The 11th International Conference on Learning Representations (ICLR)*, 2023. 
+*The 11th International Conference on Learning Representations (ICLR)*, 2023. [[paper]](https://openreview.net/forum?id=YUDiZcZTI8)
 1. Hiroaki Igarashi, Kenichi Yoneji, Kohta Ishikawa, Rei Kawakami, Teppei Suzuki, <u>Shingo Yashima</u>, Ikuro Sato. 
 Multi-task Curriculum Learning based on Gradient Similarity. 
 *The 33rd British Machine Vision Conference (BMVC)*, 2022. [[paper]](https://bmvc2022.mpi-inf.mpg.de/705/)
