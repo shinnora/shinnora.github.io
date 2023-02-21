@@ -3,5 +3,7 @@ logo: figures/snow.jpeg
 show_downloads: False
 google_analytics: G-N19LR8FWK3
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-sitemap
 
 
