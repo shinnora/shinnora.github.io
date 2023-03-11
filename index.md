@@ -4,7 +4,7 @@ My research interests include machine learning, statistical learning theory, and
 
 
 # Publications
-### International Conference/Workshop (refereed)
+### International Conferences/Workshops (refereed)
 1. Yusuke Sekikawa, <u>Shingo Yashima</u>. 
 Bit-Pruning: A Sparse Multiplication-Less Dot-Product. 
 *The 11th International Conference on Learning Representations (ICLR)*, 2023. [[paper]](https://openreview.net/forum?id=YUDiZcZTI8)
@@ -21,7 +21,7 @@ Feature Space Particle Inference for Neural Network Ensembles.
 Exponential Convergence Rates of Classification Errors on Learning with SGD and Random Features. 
 *The 24th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021. [[paper]](http://proceedings.mlr.press/v130/yashima21a.html)
 
-### Domestic Conference (non-refereed)
+### Domestic Conferences (non-refereed)
 1. <u>Shingo Yashima</u>, Teppei Suzuki, Kohta Ishikawa, Ikuro Sato, and Rei Kawakami. Feature Space Particle Inference for Neural Network Ensembles. 画像の認識・理解シンポジウム *(MIRU)*, 2022.
 1. 高橋那弥, <u>八嶋晋吾</u>, 石川康太, 佐藤育郎, 横田理央. 走行動画の大規模自己教師あり学習の検討と計画. 画像の認識・理解シンポジウム *(MIRU)*, 2022.
 1. 五十嵐博昭, 米司健一, 石川康太, 川上玲, 鈴木哲平, <u>八嶋晋吾</u>, 佐藤育郎. 勾配の類似度を用いたマルチタスクカリキュラム学習. 画像の認識・理解シンポジウム *(MIRU)*, 2022.
@@ -29,8 +29,11 @@ Exponential Convergence Rates of Classification Errors on Learning with SGD and 
 1. <u>八嶋晋吾</u>, 二反田篤史, 鈴木大慈．Random Featureを用いた確率的勾配法の期待識別誤差の収束解析．情報論的学習理論ワークショップ *(IBIS)*, 2019. **学生優秀プレゼンテーション賞ファイナリスト.**
 1. <u>八嶋晋吾</u>, 二反田篤史, 鈴木大慈．カーネル法におけるRandom Featureを用いた確率的勾配法の期待識別誤差の線形収束性．統計関連学会連合大会, 2019. 
 
-### Talk
-1. <u>八嶋晋吾</u>. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 東京工業大学社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
+### Talks
+1. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 東京工業大学社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
+
+### Media
+1. デンソーITラボが新アンサンブル学習技術、ベイジアンニューラルネットで最高水準の精度や頑健性, 日経Robotics, 2023 [[link]](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00118/)
 
 
 # Biography
