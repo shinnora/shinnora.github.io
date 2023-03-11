@@ -33,7 +33,7 @@ Exponential Convergence Rates of Classification Errors on Learning with SGD and 
 1. セーフティクリティカルな応用のための機械学習モデルの品質管理の考え方. 東京工業大学社会的課題解決型データサイエンス・AI研究推進体シンポジウム, 2022. [[program]](http://dsai.c.titech.ac.jp/dsai-symposium2022/) 
 
 ### Media
-1. デンソーITラボが新アンサンブル学習技術、ベイジアンニューラルネットで最高水準の精度や頑健性, 日経Robotics, 2023 [[link]](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00118/)
+1. デンソーITラボが新アンサンブル学習技術、ベイジアンニューラルネットで最高水準の精度や頑健性, 日経Robotics, 2023. [[link]](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00118/)
 
 
 # Biography
