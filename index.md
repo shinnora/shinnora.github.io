@@ -2,6 +2,21 @@
 I'm Shingo Yashima (八嶋 晋吾), a machine learning researcher at Denso IT Laboratory.  
 My research interests include machine learning, statistical learning theory, and computer vision.  
 
+# Biography
+<dl>
+<dt>Apr. 2020 - present: Researcher, Denso IT Laboratory.</dt>
+<dd>Research and development on machine learning, especially for AD/ADAS systems.</dd>
+</dl>
+<dl>
+<dt>Mar. 2020: Master of Information Science and Technology, The University of Tokyo.</dt>
+<dd>Supervisor: Taiji Suzuki</dd>
+<dd>Thesis: “Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition” <a href="./papers/master_thesis.pdf">[pdf]</a></dd>
+</dl>
+<dl>
+<dt>Mar. 2018: Bachelor of Engineering, The University of Tokyo.</dt>
+<dd>Supervisor: Kensuke Aishima</dd>
+<dd>Thesis (in Japanese): "動的モード分解を用いたモデル縮減"</dd>
+</dl>
 
 # Publications
 ### International Conferences/Workshops (refereed)
@@ -35,19 +50,3 @@ Exponential Convergence Rates of Classification Errors on Learning with SGD and 
 ### Media
 1. デンソーITラボが新アンサンブル学習技術、ベイジアンニューラルネットで最高水準の精度や頑健性. 日経Robotics, 2023. [[link]](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00118/)
 
-
-# Biography
-<dl>
-<dt>Apr. 2020 - present: Researcher, Denso IT Laboratory.</dt>
-<dd>Research and development on machine learning, especially for AD/ADAS systems.</dd>
-</dl>
-<dl>
-<dt>Mar. 2020: Master of Information Science and Technology, The University of Tokyo.</dt>
-<dd>Supervisor: Taiji Suzuki</dd>
-<dd>Thesis: “Generalization Error Analysis of Stochastic Gradient Descent on Classification Problems under Low Noise Condition” <a href="./papers/master_thesis.pdf">[pdf]</a></dd>
-</dl>
-<dl>
-<dt>Mar. 2018: Bachelor of Engineering, The University of Tokyo.</dt>
-<dd>Supervisor: Kensuke Aishima</dd>
-<dd>Thesis (in Japanese): "動的モード分解を用いたモデル縮減"</dd>
-</dl>
