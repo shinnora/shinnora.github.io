@@ -20,9 +20,11 @@ My research interests include machine learning, statistical learning theory, and
 
 # Publications
 ### International Conferences/Workshops (refereed)
+1. Tomoya Takahashi, <u>Shingo Yashima</u>, Kohta Ishikawa, Ikuro Sato, Rio Yokota. 
+Pixel-level Contrastive Learning of Driving Videos with Optical Flow. *1st workshop on End-to-End Autonomous Driving (CVPR Workshop)*, 2023.
 1. Yusuke Sekikawa, <u>Shingo Yashima</u>. 
 Bit-Pruning: A Sparse Multiplication-Less Dot-Product. 
-*The 11th International Conference on Learning Representations (ICLR)*, 2023. [[paper]](https://openreview.net/forum?id=YUDiZcZTI8)
+*The 11th International Conference on Learning Representations (ICLR)*, 2023. [[paper]](https://openreview.net/forum?id=YUDiZcZTI8) [[code]](https://github.com/DensoITLab/bitprune)
 1. Hiroaki Igarashi, Kenichi Yoneji, Kohta Ishikawa, Rei Kawakami, Teppei Suzuki, <u>Shingo Yashima</u>, Ikuro Sato. 
 Multi-task Curriculum Learning based on Gradient Similarity. 
 *The 33rd British Machine Vision Conference (BMVC)*, 2022. [[paper]](https://bmvc2022.mpi-inf.mpg.de/705/)
