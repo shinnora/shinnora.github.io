@@ -89,23 +89,23 @@ strong {
     }
   }
 
-@media print, screen and (max-width: 860px) {
-  body {
-    word-wrap:break-word;
-  }
+// @media print, screen and (max-width: 860px) {
+//   body {
+//     word-wrap:break-word;
+//   }
 
-  header {
-    padding:0;
-  }
+//   header {
+//     padding:0;
+//   }
 
-  header ul, header p.view {
-    position:static;
-  }
+//   header ul, header p.view {
+//     position:static;
+//   }
 
-  pre, code {
-    word-wrap:normal;
-  }
-}
+//   pre, code {
+//     word-wrap:normal;
+//   }
+// }
 
 @media print, screen and (max-width: 620px) {
   body {
